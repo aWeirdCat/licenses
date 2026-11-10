@@ -1,11 +1,11 @@
 {
-  "CAT-TEST-30DAY": {
+  "03063f34-b474-4d2d-8c3f-901e6dfde8d9": {
     "type": "1_month",
     "expiry": "2026-12-31",
     "hwid": null,
     "user": "Tester"
   },
-  "CAT-VIP-LIFETIME": {
+  "42fad5ac-a1df-4300-b243-547e97ff99dc": {
     "type": "lifetime",
     "expiry": "lifetime",
     "hwid": null,
