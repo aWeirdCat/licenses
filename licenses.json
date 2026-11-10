@@ -10,5 +10,12 @@
     "expiry": "lifetime",
     "hwid": null,
     "user": "VIP Customer"
+  },
+  "42fad54c-a1df-4300-b243-547e97ff99dc": {
+    "password": "123",
+    "type": "lifetime",
+    "expiry": "lifetime",
+    "hwid": "5AB797597338732B",
+    "user": "Apek"
   }
 }
