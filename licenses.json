@@ -1,0 +1,14 @@
+{
+  "CAT-TEST-30DAY": {
+    "type": "1_month",
+    "expiry": "2026-12-31",
+    "hwid": null,
+    "user": "Tester"
+  },
+  "CAT-VIP-LIFETIME": {
+    "type": "lifetime",
+    "expiry": "lifetime",
+    "hwid": null,
+    "user": "VIP Customer"
+  }
+}
